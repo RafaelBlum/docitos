@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.htaccess" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/theme/css/email/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/theme/css/responsive.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/theme/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/theme/images/pricing" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/theme/js/jquery.form.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/theme/js/scripts.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/composer.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/App/AppController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/App/AuthController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/App/BlogController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/App/ErrorController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Boot/Config.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Boot/Helpers.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Boot/Minify.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Core/Connect.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Core/Model.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Core/Session.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Core/View.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Models/Auth.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Models/User.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage/images" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage/images/product-images/bolinhas.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/storage/images/product-images/brigadeiro.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/storage/images/product-images/canape.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/storage/images/product-images/dog.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/storage/images/product-images/empada.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/storage/images/product-images/hamburger.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/storage/images/product-images/pizza.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/storage/images/product-images/risoles.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/storage/images/product-images/torta.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/auth/_theme.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/auth/cad-register.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/auth/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/blog-card.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/blog-post.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/blog.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/home.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/partials/head.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/partials/header.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/partials/menu.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/partials/search.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/themes/docitos/restaurant/product-item.php" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
