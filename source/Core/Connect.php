@@ -6,12 +6,7 @@ use PDO;
 
 class Connect
 {
-    /**    ---------      DATA HOST    -------------
-     *     private const HOST = "localhost";
-     *     private const USER = "u994951933_docitos";
-     *     private const DBNAME = "u994951933_docitos";
-     *     private const PASSWORD = "XEbIUK4rV4s?";
-    */
+
 
     /**    ---------    DATA LOCALHOST   ----------*/
     private const HOST = "localhost";
