@@ -49,7 +49,7 @@
           <span class="button-bar"></span>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-header">Menu x</a>
+          <a class="dropdown-header">Menu</a>
           <a class="dropdown-item" href="<?= $router->route("home.home") ?>">Home</a>
           <a class="dropdown-item" href="<?= asset("page/login");?>">login</a>
           <a class="dropdown-item" href="<?= asset("page/profile");?>">Perfil</a>

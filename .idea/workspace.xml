@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3731bc4c-1c29-4c24-96dc-b5e2c6046543" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/docitos/public/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/docitos/public/home.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/coffeecode/datalayer" />
       <path value="$PROJECT_DIR$/vendor/coffeecode/optimizer" />
@@ -126,7 +127,11 @@
       <workItem from="1653441286945" duration="1365000" />
       <workItem from="1653617696068" duration="875000" />
       <workItem from="1653687694476" duration="1178000" />
-      <workItem from="1658923601144" duration="133000" />
+      <workItem from="1658923601144" duration="295000" />
+      <workItem from="1658939782823" duration="2366000" />
+      <workItem from="1659009993893" duration="1875000" />
+      <workItem from="1659028521403" duration="1564000" />
+      <workItem from="1659274992143" duration="19000" />
     </task>
     <servers />
   </component>
