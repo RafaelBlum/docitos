@@ -4,6 +4,7 @@
     <list default="true" id="3731bc4c-1c29-4c24-96dc-b5e2c6046543" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/docitos/public/home.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,12 +58,15 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/desenvolvimento/Projeto blog laravel/larafox" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\docitos\themes\docitos\restaurant" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\docitos\assets\theme\images\pricing" />
       <recent name="C:\xampp\htdocs\docitos\assets\theme\images" />
@@ -130,7 +134,7 @@
       <workItem from="1658939782823" duration="2366000" />
       <workItem from="1659009993893" duration="1875000" />
       <workItem from="1659028521403" duration="1564000" />
-      <workItem from="1659274992143" duration="594000" />
+      <workItem from="1659274992143" duration="2230000" />
     </task>
     <servers />
   </component>

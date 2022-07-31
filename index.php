@@ -20,7 +20,6 @@ $router = new Router(url(), ":");
 $router->namespace("source\App")->group(null);
 $router->get("/", "WebController:home", "home.home");
 
-
 /** ======================= ADMIN ROUTERS =======================*/
 $router->namespace("source\App")->group("/admin");
 $router->get("/", "AppController:admin");
