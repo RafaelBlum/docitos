@@ -15,7 +15,7 @@ use CoffeeCode\Router\Router;
 
 $session = new Session();
 $router = new Router(url(), ":");
-echo '';
+
 /** ======================= WEB ROUTERS =======================*/
 $router->namespace("source\App")->group(null);
 $router->get("/", "WebController:home", "home.home");
